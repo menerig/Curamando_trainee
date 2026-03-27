@@ -1,3 +1,4 @@
+-- Oscar Bergman
 SELECT *
 FROM `eidra-df-case.eidra_data_trainee.employees`
 WHERE employee_id = 'EMP-004';
